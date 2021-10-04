@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "manzana",
+      "price": 0.30,
+      "description": "Una manzana",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "aguacate",
+      "price": 0.50,
+      "description": "Un aguacate",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "carne",
+      "price": 2.30,
+      "description": "Carne seca",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Macarrones",
+      "price": 0.36,
+      "description": "Pasta alimento",
+      "categoryId": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "fruta y vegetales",
+      "description": "frutas y vegetales"
+    },
+    {
+      "id": "2",
+      "name": "otros",
+      "description": "otros"
+    }
+  ]
+}
